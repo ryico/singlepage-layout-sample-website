@@ -98,3 +98,7 @@ body {
   background-color: #fff;
   color: #333;
 }
+.about-text {
+  margin: 30px 0;
+  line-height: 2.5;
+}
