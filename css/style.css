@@ -102,3 +102,8 @@ body {
   margin: 30px 0;
   line-height: 2.5;
 }
+
+.works {
+  background-color: #383634;
+  padding: 80px 0;
+}
